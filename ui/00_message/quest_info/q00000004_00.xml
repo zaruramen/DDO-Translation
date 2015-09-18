@@ -5,16 +5,16 @@
   </message>
   <message>
     <key>q00000004_00_5</key>
-    <text xml:space="preserve">ポーンとの契約を果たすため
-ポーン郷へ赴き試練に挑む</text>
+    <text xml:space="preserve">In order to fulfill the contract with pawn
+Challenge the ordeal and went to pawn Township</text>
   </message>
   <message>
     <key>q00000004_00_963</key>
-    <text xml:space="preserve">リム転移でテル村に行き、アルフレドから話を聞く</text>
+    <text xml:space="preserve">Go to Tel village rim transition, and hear the story from Alfredoく</text>
   </message>
   <message>
     <key>q00000004_00_964</key>
-    <text xml:space="preserve">エリア情報とその内容を確認する</text>
+    <text xml:space="preserve">It will check the area information and its contents</text>
   </message>
   <message>
     <key>q00000004_00_965</key>
@@ -22,7 +22,7 @@
   </message>
   <message>
     <key>q00000004_00_1539</key>
-    <text xml:space="preserve">ポーン郷で情報収集する</text>
+    <text xml:space="preserve">I want to information collected by the pawn Township</text>
   </message>
   <message>
     <key>q00000004_00_966</key>
@@ -30,6 +30,6 @@
   </message>
   <message>
     <key>q00000004_00_1537</key>
-    <text xml:space="preserve">アルヴァーと話す</text>
+    <text xml:space="preserve">Speak with Aruvu~a</text>
   </message>
 </resource>
